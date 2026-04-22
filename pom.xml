@@ -44,11 +44,4 @@
       </plugin>
     </plugins>
   </build>
-
-  <distributionManagement>
-    <repository>
-      <id>github</id>
-      <url>https://maven.pkg.github.com/OptimCE/kc-groupid-mapper</url>
-    </repository>
-  </distributionManagement>
 </project>
