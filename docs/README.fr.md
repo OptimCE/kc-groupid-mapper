@@ -6,7 +6,7 @@
 
 > Mappeur de protocole OIDC Keycloak qui transforme l'appartenance aux groupes en une revendication de jeton `orgs` avec les rôles.
 
-[![Site web](https://img.shields.io/badge/Site%20web-optimce.be-2e7d32.svg)](https://www.optimce.be/fr/)
+[![Site web](https://img.shields.io/badge/Site%20web-optimce.be-2e7d32.svg)](https://www.optimce.be)
 [![Licence](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg)](../LICENSE)
 [![Keycloak](https://img.shields.io/badge/Keycloak-26.5.1-blue.svg)](https://www.keycloak.org/)
 [![en](https://img.shields.io/badge/lang-en-lightgrey.svg)](../README.md)
@@ -21,7 +21,7 @@ utilisateur aux groupes et ajoute à ses jetons une revendication décrivant les
 d'elles — le tout dérivé de l'arborescence des groupes, sans modèle de données
 supplémentaire.
 
-Il fait partie de la plateforme [OptimCE](https://www.optimce.be/fr/), où il
+Il fait partie de la plateforme [OptimCE](https://www.optimce.be), où il
 permet aux services en aval d'autoriser les requêtes par communauté d'énergie à
 partir du seul jeton d'accès. Il est développé dans le
 [monorepo OptimCE](https://github.com/OptimCE/monorepo) et publié ici en tant
